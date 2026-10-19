@@ -6,6 +6,7 @@
 4. Push your commit.
 5. Create a Pull Request.
 
+I did fork this repo 
 ## Styling
 
 - Use `###` headers for your sections.
